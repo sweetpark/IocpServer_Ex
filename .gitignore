@@ -10,3 +10,7 @@
 *.suo
 *.ipch
 *.sln
+.vs
+x64
+*.vcxproj.filters
+*.vcxproj.user
