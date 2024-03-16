@@ -1,0 +1,12 @@
+*.vcxproj
+*.exe
+*.obj
+*.log
+*.idb
+*.pdb
+*.ilk
+*.lastbuildstate
+*.vsidx
+*.suo
+*.ipch
+*.sln
